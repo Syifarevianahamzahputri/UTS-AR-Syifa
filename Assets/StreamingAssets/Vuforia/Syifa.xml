@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="butterfly" size="1.000000 0.852222" />
+    <ImageTarget name="domba" size="1.000000 1.000000" />
+    <ImageTarget name="burung" size="1.000000 1.000000" />
+    <ImageTarget name="kura" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
